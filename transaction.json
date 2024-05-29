@@ -1,0 +1,596 @@
+[
+  {
+    "transaction_id": "1",
+    "transaction_date": "2019-01-01",
+    "transaction_amount": 100,
+    "transaction_type": "debit",
+    "transaction_description": "Payment for groceries",
+    "merchant_name": "SuperMart",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "2",
+    "transaction_date": "2019-01-02",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "OnlineShop",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "3",
+    "transaction_date": "2019-01-03",
+    "transaction_amount": 75,
+    "transaction_type": "debit",
+    "transaction_description": "Dinner with friends",
+    "merchant_name": "RestaurantABC",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "4",
+    "transaction_date": "2019-01-04",
+    "transaction_amount": 120,
+    "transaction_type": "debit",
+    "transaction_description": "Shopping at Mall",
+    "merchant_name": "FashionStoreXYZ",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "5",
+    "transaction_date": "2019-01-05",
+    "transaction_amount": 25,
+    "transaction_type": "credit",
+    "transaction_description": "Returned defective product",
+    "merchant_name": "ElectronicsShop",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "6",
+    "transaction_date": "2019-01-06",
+    "transaction_amount": 60,
+    "transaction_type": "debit",
+    "transaction_description": "Gasoline refill",
+    "merchant_name": "GasStationXYZ",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "7",
+    "transaction_date": "2019-01-07",
+    "transaction_amount": 40,
+    "transaction_type": "debit",
+    "transaction_description": "Lunch with colleagues",
+    "merchant_name": "Cafe123",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "8",
+    "transaction_date": "2019-01-08",
+    "transaction_amount": 90,
+    "transaction_type": "debit",
+    "transaction_description": "Movie tickets",
+    "merchant_name": "CinemaXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "9",
+    "transaction_date": "2019-01-09",
+    "transaction_amount": 150,
+    "transaction_type": "debit",
+    "transaction_description": "Weekend getaway",
+    "merchant_name": "ResortABC",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "10",
+    "transaction_date": "2019-01-10",
+    "transaction_amount": 20,
+    "transaction_type": "credit",
+    "transaction_description": "Cashback reward",
+    "merchant_name": "BankXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "11",
+    "transaction_date": "2019-01-11",
+    "transaction_amount": 65,
+    "transaction_type": "debit",
+    "transaction_description": "Dinner with family",
+    "merchant_name": "FamilyRestaurant",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "12",
+    "transaction_date": "2019-01-12",
+    "transaction_amount": 30,
+    "transaction_type": "credit",
+    "transaction_description": "Returned books",
+    "merchant_name": "BookstoreABC",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "13",
+    "transaction_date": "2019-01-13",
+    "transaction_amount": 85,
+    "transaction_type": "debit",
+    "transaction_description": "Home appliances purchase",
+    "merchant_name": "ApplianceStoreXYZ",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "14",
+    "transaction_date": "2019-01-14",
+    "transaction_amount": 45,
+    "transaction_type": "debit",
+    "transaction_description": "Coffee and snacks",
+    "merchant_name": "CoffeeShop123",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "15",
+    "transaction_date": "2019-01-15",
+    "transaction_amount": 110,
+    "transaction_type": "debit",
+    "transaction_description": "Electronics purchase",
+    "merchant_name": "ElectronicsStoreXYZ",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "16",
+    "transaction_date": "2019-01-16",
+    "transaction_amount": 70,
+    "transaction_type": "debit",
+    "transaction_description": "Car maintenance",
+    "merchant_name": "AutoServiceABC",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "17",
+    "transaction_date": "2019-01-17",
+    "transaction_amount": 55,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for damaged item",
+    "merchant_name": "OnlineStoreXYZ",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "18",
+    "transaction_date": "2019-01-18",
+    "transaction_amount": 80,
+    "transaction_type": "debit",
+    "transaction_description": "Dinner at fancy restaurant",
+    "merchant_name": "FineDiningXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "19",
+    "transaction_date": "2019-01-19",
+    "transaction_amount": 95,
+    "transaction_type": "debit",
+    "transaction_description": "Grocery shopping",
+    "merchant_name": "GroceryStore123",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "20",
+    "transaction_date": "2019-01-20",
+    "transaction_amount": 35,
+    "transaction_type": "credit",
+    "transaction_description": "Cashback reward",
+    "merchant_name": "BankXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "21",
+    "transaction_date": "2019-01-21",
+    "transaction_amount": 130,
+    "transaction_type": "debit",
+    "transaction_description": "Shopping spree",
+    "merchant_name": "MallABC",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "22",
+    "transaction_date": "2019-01-22",
+    "transaction_amount": 45,
+    "transaction_type": "debit",
+    "transaction_description": "Lunch with friends",
+    "merchant_name": "Cafe456",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "23",
+    "transaction_date": "2019-01-23",
+    "transaction_amount": 70,
+    "transaction_type": "debit",
+    "transaction_description": "Health and wellness products",
+    "merchant_name": "WellnessStoreXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "24",
+    "transaction_date": "2019-01-24",
+    "transaction_amount": 25,
+    "transaction_type": "credit",
+    "transaction_description": "Returned clothing item",
+    "merchant_name": "FashionStore123",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "25",
+    "transaction_date": "2019-01-25",
+    "transaction_amount": 60,
+    "transaction_type": "debit",
+    "transaction_description": "Online subscription renewal",
+    "merchant_name": "SubscriptionServiceXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "26",
+    "transaction_date": "2019-01-26",
+    "transaction_amount": 75,
+    "transaction_type": "debit",
+    "transaction_description": "Date night dinner",
+    "merchant_name": "RomanticRestaurant",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "27",
+    "transaction_date": "2019-01-27",
+    "transaction_amount": 40,
+    "transaction_type": "debit",
+    "transaction_description": "Concert tickets",
+    "merchant_name": "ConcertHallXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "28",
+    "transaction_date": "2019-01-28",
+    "transaction_amount": 85,
+    "transaction_type": "debit",
+    "transaction_description": "Home decor purchase",
+    "merchant_name": "HomeDecorStoreABC",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "29",
+    "transaction_date": "2019-01-29",
+    "transaction_amount": 95,
+    "transaction_type": "debit",
+    "transaction_description": "Office supplies",
+    "merchant_name": "OfficeSupplyStoreXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "30",
+    "transaction_date": "2019-01-30",
+    "transaction_amount": 20,
+    "transaction_type": "credit",
+    "transaction_description": "Cashback reward",
+    "merchant_name": "BankXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "31",
+    "transaction_date": "2019-01-31",
+    "transaction_amount": 110,
+    "transaction_type": "debit",
+    "transaction_description": "Home improvement supplies",
+    "merchant_name": "HomeImprovementStore123",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "32",
+    "transaction_date": "2019-02-01",
+    "transaction_amount": 55,
+    "transaction_type": "debit",
+    "transaction_description": "Brunch with family",
+    "merchant_name": "FamilyBrunchCafe",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "33",
+    "transaction_date": "2019-02-02",
+    "transaction_amount": 70,
+    "transaction_type": "debit",
+    "transaction_description": "Sports equipment purchase",
+    "merchant_name": "SportingGoodsStoreXYZ",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "34",
+    "transaction_date": "2019-02-03",
+    "transaction_amount": 25,
+    "transaction_type": "credit",
+    "transaction_description": "Returned gadget",
+    "merchant_name": "ElectronicsStore123",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "35",
+    "transaction_date": "2019-02-04",
+    "transaction_amount": 95,
+    "transaction_type": "debit",
+    "transaction_description": "Dinner at Italian restaurant",
+    "merchant_name": "ItalianDinerXYZ",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "36",
+    "transaction_date": "2019-02-05",
+    "transaction_amount": 40,
+    "transaction_type": "debit",
+    "transaction_description": "Coffee and pastries",
+    "merchant_name": "Bakery456",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "37",
+    "transaction_date": "2019-02-06",
+    "transaction_amount": 65,
+    "transaction_type": "debit",
+    "transaction_description": "Gift purchase",
+    "merchant_name": "GiftShop123",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "38",
+    "transaction_date": "2019-02-07",
+    "transaction_amount": 120,
+    "transaction_type": "debit",
+    "transaction_description": "Furniture purchase",
+    "merchant_name": "FurnitureStoreXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "39",
+    "transaction_date": "2019-02-08",
+    "transaction_amount": 30,
+    "transaction_type": "credit",
+    "transaction_description": "Returned shoes",
+    "merchant_name": "ShoeStoreABC",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "40",
+    "transaction_date": "2019-02-09",
+    "transaction_amount": 50,
+    "transaction_type": "debit",
+    "transaction_description": "Haircut and styling",
+    "merchant_name": "SalonXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "41",
+    "transaction_date": "2019-02-10",
+    "transaction_amount": 85,
+    "transaction_type": "debit",
+    "transaction_description": "Gym membership renewal",
+    "merchant_name": "GymABC",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "42",
+    "transaction_date": "2019-02-11",
+    "transaction_amount": 110,
+    "transaction_type": "debit",
+    "transaction_description": "Electronics accessories",
+    "merchant_name": "AccessoriesStoreXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "43",
+    "transaction_date": "2019-02-12",
+    "transaction_amount": 35,
+    "transaction_type": "credit",
+    "transaction_description": "Cashback reward",
+    "merchant_name": "BankXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "44",
+    "transaction_date": "2019-02-13",
+    "transaction_amount": 75,
+    "transaction_type": "debit",
+    "transaction_description": "Dinner at Mexican restaurant",
+    "merchant_name": "MexicanRestaurant123",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "45",
+    "transaction_date": "2019-02-14",
+    "transaction_amount": 45,
+    "transaction_type": "debit",
+    "transaction_description": "Pet supplies",
+    "merchant_name": "PetStoreXYZ",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "46",
+    "transaction_date": "2019-02-15",
+    "transaction_amount": 60,
+    "transaction_type": "debit",
+    "transaction_description": "Home cleaning service",
+    "merchant_name": "CleaningServiceABC",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "47",
+    "transaction_date": "2019-02-16",
+    "transaction_amount": 40,
+    "transaction_type": "debit",
+    "transaction_description": "Dinner with colleagues",
+    "merchant_name": "Cafe789",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "48",
+    "transaction_date": "2019-02-17",
+    "transaction_amount": 95,
+    "transaction_type": "debit",
+    "transaction_description": "Home entertainment purchase",
+    "merchant_name": "EntertainmentStoreXYZ",
+    "card_type": "Discover"
+  },
+  {
+    "transaction_id": "49",
+    "transaction_date": "2019-02-18",
+    "transaction_amount": 30,
+    "transaction_type": "credit",
+    "transaction_description": "Returned kitchenware",
+    "merchant_name": "KitchenStore123",
+    "card_type": "Amex"
+  },
+  {
+    "transaction_id": "50",
+    "transaction_date": "2019-02-19",
+    "transaction_amount": 75,
+    "transaction_type": "debit",
+    "transaction_description": "Concert tickets",
+    "merchant_name": "MusicVenueXYZ",
+    "card_type": "Visa"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  },
+  {
+    "transaction_id": "51",
+    "transaction_date": "2024-05-28",
+    "transaction_amount": 50,
+    "transaction_type": "credit",
+    "transaction_description": "Refund for returned item",
+    "merchant_name": "SuperMart",
+    "card_type": "MasterCard"
+  }
+]
